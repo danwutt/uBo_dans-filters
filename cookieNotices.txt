@@ -2,3 +2,5 @@
 
 www.reddit.com##rpl-modal-card
 de.aliexpress.com###gdpr-new-container
+www.spirit.com##.ot-sdk-container > .ot-sdk-row
+www.spirit.com##.ot-fade-in.onetrust-pc-dark-filter
