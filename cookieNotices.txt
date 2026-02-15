@@ -13,3 +13,15 @@ www.buzzfeed.com##.ot-sdk-container > .ot-sdk-row
 kubekings.com##.lgcookieslaw-reject-button-enabled.lgcookieslaw-banner-floating.lgcookieslaw-banner
 zoom.us###onetrust-group-container
 zoom.us##.has-reject-all-button.ot-sdk-columns.ot-sdk-twelve
+www.garmin.com###trustarc-banner-overlay
+www.garmin.com##.ta-display-flex.ta-show
+tiendaselectron.com##.lgcookieslaw_banner
+tiendaselectron.com##.lgcookieslaw_overlay
+lavozdecanarias.com##.gdpr_infobar_postion_bottom.moove-gdpr-dark-scheme.moove-gdpr-align-center
+www.cartv.es##.css-82vii7
+www.cartv.es##.css-2vpw24.qc-cmp-cleanslate
+www.ondaaragonesa.com##.qc-cmp2-footer-scrolled.qc-cmp2-footer-overlay.qc-cmp2-footer
+www.ondaaragonesa.com##.qc-cmp2-consent-info
+www.ondaaragonesa.com##.qc-cmp2-summary-section
+www.ondaaragonesa.com##.css-w9wzt7
+www.ondaaragonesa.com##.css-1vh4p1.qc-cmp-cleanslate
