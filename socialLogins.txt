@@ -36,6 +36,10 @@ frame.work###social-signin-links > form
 da.airbnb.com##._88sa87
 da.airbnb.com##._1l63kxf
 account.booking.com##.access-panel__social-buttons
+de.hotels.com###credential_picker_container
+de.hotels.com##.uitk-button-google-signin.uitk-button-has-text.uitk-button-medium.uitk-button
+de.hotels.com##.uitk-layout-flex-item.uitk-spacing-margin-blockstart-four.uitk-spacing.uitk-text-default-theme.uitk-type-300.uitk-type-center.uitk-text
+de.hotels.com##.uitk-layout-flex-flex-wrap-wrap.uitk-layout-flex-gap-six.uitk-layout-flex-flex-direction-column.uitk-layout-flex-align-items-center.uitk-layout-flex
 account.booking.com##.access-panel__social-divider
 signin.ebay.com##.social-signin-buttons-reg
 signin.ebay.com##.separator
