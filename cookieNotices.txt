@@ -41,3 +41,9 @@ de.hotels.com##.has-reject-all-button.ot-sdk-columns.ot-sdk-twelve
 it.hotels.com###onetrust-group-container
 it.hotels.com##.has-reject-all-button.ot-sdk-columns.ot-sdk-twelve
 it.hotels.com##.ot-fade-in.onetrust-pc-dark-filter
+www.pcmag.com##.ot-fade-in.onetrust-pc-dark-filter
+www.pcmag.com###onetrust-group-container
+www.pcmag.com##.has-reject-all-button.ot-sdk-columns.ot-sdk-twelve
+www.babbel.com##.ot-buttons-fw.vertical-align-content.ot-bottom-right.otFloatingRoundedCorner
+my.babbel.com###onetrust-group-container
+my.babbel.com##.has-reject-all-button.ot-sdk-columns.ot-sdk-twelve
