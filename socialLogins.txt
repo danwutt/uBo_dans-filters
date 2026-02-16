@@ -43,3 +43,4 @@ de.hotels.com##.uitk-layout-flex-flex-wrap-wrap.uitk-layout-flex-gap-six.uitk-la
 account.booking.com##.access-panel__social-divider
 signin.ebay.com##.social-signin-buttons-reg
 signin.ebay.com##.separator
+it.hotels.com###credential_picker_container
