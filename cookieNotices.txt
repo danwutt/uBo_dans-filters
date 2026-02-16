@@ -32,3 +32,6 @@ www.trivago.de###usercentrics-cmp-ui
 www.fewo-direkt.de##.ot-fade-in.onetrust-pc-dark-filter
 www.fewo-direkt.de###onetrust-group-container
 www.fewo-direkt.de##.has-reject-all-button.ot-sdk-columns.ot-sdk-twelve
+arstechnica.com###fides-overlay-wrapper > .fides-modal-overlay
+arstechnica.com###fides-banner
+ring.com##.consent-banner--gdpr.consent-banner
