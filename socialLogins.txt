@@ -48,3 +48,6 @@ my.babbel.com##.Oauth.dGKing.sc-kYxDKI.hDZGMX.sc-gEvEer
 xdaforums.com##.formRow--button.formRow
 xdaforums.com##em
 xdaforums.com##.blocks-textJoiner > span
+www.flightradar24.com##.space-y-4.mt-4
+www.flightradar24.com##.space-y-4
+www.flightradar24.com##div.text-sm.mb-4.text-center.justify-center.items-center.flex.relative:nth-of-type(1)
