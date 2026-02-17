@@ -55,3 +55,7 @@ www.bike24.com##button.hover\:underline.text-xs.pb-5.pt-4.px-3.text-blue-d400:nt
 www.bike24.com##.animate-fade-in.bg-black\/50.cursor-default.w-screen.h-screen.inset-0.fixed.z-above-content
 www.bike24.com##.justify-center.w-full.h-full.flex.left-0.top-0.fixed.z-above-content
 channelstore.roku.com##.cc-bottom.cc-theme-block.cc-type-opt-in.cc-banner.cc-window.roku-cookie-consent
+surfshark.com##._jJQgl.js-cookies-popup._n6VA3
+nordvpn.com##.ConsentWidget
+my.surfshark.com##.js-cookies-popup.EHoqs.eKie2
+www.expressvpn.com###shadowHost
