@@ -57,4 +57,8 @@ www.skyscanner.dk##section:nth-of-type(4)
 www.strava.com##button.AuthButton_authButton__RrQR_.Button_default__JSqPI.Button_btn__EdK33:nth-of-type(2)
 www.strava.com##button.AuthButton_authButton__RrQR_.Button_default__JSqPI.Button_btn__EdK33:nth-of-type(1)
 account.elgiganten.dk##.social.claims-provider-list-buttons
+elpais.com##.ps-flex-colum.ps-flex
+elpais.com##.margin_top_xs.signInEnterData > p
+www.elmundo.es##.social-signin
+www.20minutos.es##.gigya-login-providers
 
