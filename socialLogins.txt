@@ -69,3 +69,11 @@ nordaccount.com##a.w-full.text-small.block.u1QdZSOLGHotT50hqpWc.text-grey-darkes
 nordaccount.com##a.mt-3.w-full.text-small.block.u1QdZSOLGHotT50hqpWc.text-grey-darkest.nord-button--c-grey.nord-button--v-outlined.bg-transparent.border-grey-light.border.nord-button--medium.cursor-pointer.duration-250.ease-out.transition-colors.select-none.rounded-full.align-bottom.font-medium.focus\:outline-none.nord-button:nth-of-type(2)
 auth.purevpn.com##.login-button.apple
 auth.purevpn.com##.line
+auth.proshop.dk##section:nth-of-type(2)
+accounts.oneplus.com##div._container_5l346_14:nth-of-type(2)
+accounts.oneplus.com##._container_5l346_14
+www.sporcle.com##.social-signup-container
+www.sporcle.com##.initGoogleLogin.google-signup-button.signup-button
+www.sporcle.com##.apple-signup-button.signup-button
+askubuntu.com##.wmx3.mb16.gsy.gs8.fd-column.flex__fl-grow1.d-flex.mx-auto
+askubuntu.com##.g8.gsy.gs8.fd-column.flex__fl-grow1.d-flex.flex--item
