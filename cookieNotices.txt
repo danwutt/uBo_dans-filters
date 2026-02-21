@@ -69,3 +69,13 @@ www.ugreen.com##.cc-color-override-186450242.cc-right.cc-bottom.cc-theme-wired.c
 nas-de.ugreen.com##.cc-color-override-186450242.cc-left.cc-bottom.cc-theme-wired.cc-type-custom.cc-floating.cc-window.pd-cookie-banner-window
 de.ugreen.com##.cc-color-override-186450242.cc-left.cc-bottom.cc-theme-wired.cc-type-custom.cc-floating.cc-window.pd-cookie-banner-window
 askubuntu.com##.vertical-align-content.ot-bottom-left.ot-iab-2.otFloatingRoundedCorner
+fixpart.no##.fp-cookie-modal.fp-modal--no-close.fp-modal > .fp-modal__dialog
+fixpart.no##.fp-cookie-modal.fp-modal--no-close.fp-modal
+www.fixshop.eu##.rounded-tile.bg-light.p-24.max-w-620
+www.fixshop.eu##.bg-dark-30.flex-center.inset-0.fixed.w-full.max-w-full.cookies-bar
+www.elcorteingles.es##.has-reject-all-button.ot-sdk-columns.ot-sdk-twelve
+www.elcorteingles.es###onetrust-group-container
+cuenta.elcorteingles.es###onetrust-group-container
+cuenta.elcorteingles.es##.has-reject-all-button.ot-sdk-columns.ot-sdk-twelve
+www.deporvillage.com###onetrust-banner-sdk > div
+www.deporvillage.com##.ot-fade-in.onetrust-pc-dark-filter
