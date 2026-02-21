@@ -77,3 +77,8 @@ www.sporcle.com##.initGoogleLogin.google-signup-button.signup-button
 www.sporcle.com##.apple-signup-button.signup-button
 askubuntu.com##.wmx3.mb16.gsy.gs8.fd-column.flex__fl-grow1.d-flex.mx-auto
 askubuntu.com##.g8.gsy.gs8.fd-column.flex__fl-grow1.d-flex.flex--item
+manualmachine.com###loginForm > .buttons > .social-network-buttons
+manualmachine.com###registerForm > .buttons > .social-network-buttons
+www.fixshop.eu##.mb-16.w-full.btn-large.btn-outline.btn
+www.ifixit.com##.external-login-wrapper
+www.ifixit.com##.login-container > .or-hr
