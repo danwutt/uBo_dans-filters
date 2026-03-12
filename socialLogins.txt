@@ -3,6 +3,7 @@
 ! Google Accounts popup remove globally
 ||accounts.google.com/gsi/iframe
 
+
 www.temu.com##._3xT3pj8e
 www.reddit.com##.box-border.w-100.text-center.mt-md
 www.ryanair.com##.social-login
@@ -83,3 +84,4 @@ www.fixshop.eu##.mb-16.w-full.btn-large.btn-outline.btn
 www.ifixit.com##.external-login-wrapper
 www.ifixit.com##.login-container > .or-hr
 github.com##.js-webauthn-login-emu-control
+askubuntu.com###credential_picker_container
