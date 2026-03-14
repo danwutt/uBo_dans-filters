@@ -9,3 +9,5 @@
 ##.cookie-notice.banner
 ##.lgcookieslaw_banner
 ##.lgcookieslaw_overlay
+###ez-cookie-dialog
+###ez-cookie-dialog-wrapper
