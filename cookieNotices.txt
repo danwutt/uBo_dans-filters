@@ -7,3 +7,5 @@
 ##.cookie_gdpr
 ###onetrust-button-group-parent
 ##.cookie-notice.banner
+##.lgcookieslaw_banner
+##.lgcookieslaw_overlay
